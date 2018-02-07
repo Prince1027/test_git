@@ -1,8 +1,4 @@
 <<<<<<< HEAD
 hello world.
 Creating a new branch quick and simple.
-=======
-hello world.
-Creating a new branch is quick and simple.
-
->>>>>>> feature1
+dangdang
