@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-hello world,how are you!
 Creating a new branch quick and simple.
 dangdang
 test stash
+linux python git docker redis
