@@ -2,5 +2,3 @@ hello world.
 Creating a new branch quick and simple.
 dangdang
 test stash
-
-dev branch test.
